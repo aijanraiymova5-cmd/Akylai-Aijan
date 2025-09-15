@@ -550,7 +550,7 @@ body {
     box-shadow: 10px 10px 10px black;
 } */
 
-* {
+ * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -565,7 +565,7 @@ body {
   flex-direction: column;
 }
 
-/* Футер фон жана градиент экранга толук */
+
 footer {
   width: 100%;
   position: relative;
@@ -592,7 +592,6 @@ footer::before {
   100% {background-position: 0% 50%;}
 }
 
-/* Контейнер борбордо */
 .footer-container {
   max-width: 1200px;
   margin: auto;
@@ -673,15 +672,15 @@ footer::before {
   text-shadow: 0 0 10px #ffea00, 0 0 20px #00ffff;
 }
 
-/* Футер астыңкы бөлүгү */
+
 .footer-bottom {
   text-align: center;
   padding: 20px 0;
   font-size: 14px;
   background: rgba(0,0,0,0.2);
   width: 100%;
-}
-* {
+} 
+ * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -758,4 +757,4 @@ footer {
   font-size: 14px;
   color: #fff;
 }
-
+ 
